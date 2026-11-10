@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "playmagad.aternos.me",
+    "port": 51233,
     "version": "",
     "try-creative": false
   },
